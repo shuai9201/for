@@ -1,0 +1,1 @@
+<p class="hr"><a href="../for">首页</a>｜联系我们｜<a href="help.php" class="foot">帮助</a>｜All Right Reserve 版权所有</p>
